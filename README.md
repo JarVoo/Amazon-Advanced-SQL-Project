@@ -1,3 +1,5 @@
+![shipping_warehouse_image](https://github.com/user-attachments/assets/0f6d0b1a-c42c-4a19-9c6f-b59868f04913)
+
 ---
 
 # **Amazon USA Sales Analysis Project**
